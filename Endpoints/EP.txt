@@ -1,0 +1,13 @@
+POST https://localhost:44314/api/Persona/persona
+GET https://localhost:44314/api/Persona
+
+POST https://localhost:44314/api/Cliente/clientes
+GET  https://localhost:44314/api/Cliente
+
+POST https://localhost:44314/api/Cuenta/cuentas
+GET  https://localhost:44314/api/Cuenta
+
+POST https://localhost:44314/api/Movimientos/movimientos
+GET  https://localhost:44314/api/Movimientos
+
+POST https://localhost:44314/api/Reporte
